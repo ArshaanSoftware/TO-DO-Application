@@ -1,2 +1,5 @@
-# TO-DO-Application
-TO-DO Application Using React 
+<<<<<<< HEAD
+// Your local changes
+=======
+// The changes from the remote repository
+>>>>>>> branch-name
